@@ -1,2 +1,2 @@
 # ASP
-labosi iz algoritama i struktura podataka
+algorithms and data structures tasks
