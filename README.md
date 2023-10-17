@@ -1,2 +1,2 @@
-# ADS
+# ASP
 algorithms and data structures tasks
