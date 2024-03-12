@@ -1,2 +1,2 @@
 # ASP
-algorithms and data structures tasks
+laboratorijske vježbe iz predmeta "Algoritmi i strukture podataka"
